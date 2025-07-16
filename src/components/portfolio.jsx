@@ -109,8 +109,8 @@ export default function Portfolio() {
         <h2 className="text-3xl font-bold mb-4 border-b pb-2 border-blue-200">🎓 Certifications</h2>
         <ul className="list-disc list-inside space-y-2 text-gray-700 text-base">
           <li > Web Development <a className="text-blue-600 hover:text-blue-800" target="_blank" href="\Web Development.jpeg">Certificate</a> - JDC Institute, Lahore</li>
-          <li > Python <a className="text-blue-600 hover:text-blue-800" href="src\assets\UMARNAZIR-VU-ITU-DTC-PCAP - certificate_page-0001.jpg" target="_blank" rel="noopener noreferrer">Certificate </a>, <a className="text-blue-600 hover:text-blue-800" href="src\assets\NetAcad Learning Transcript_page-0001.jpg" target="_blank" rel="noopener noreferrer">Transcript</a>  - Cisco</li>
-          <li >Wordpress <a className="text-blue-600 hover:text-blue-800" href="src\assets\DSTP_Certificate_ 83G64VYMK_page-0001.jpg" target="_blank" rel="noopener noreferrer">Certificate</a> - Digiskills</li>
+          <li > Python <a className="text-blue-600 hover:text-blue-800" href="UMARNAZIR-VU-ITU-DTC-PCAP - certificate_page-0001.jpg" target="_blank" rel="noopener noreferrer">Certificate </a>, <a className="text-blue-600 hover:text-blue-800" href="NetAcad Learning Transcript_page-0001.jpg" target="_blank" rel="noopener noreferrer">Transcript</a>  - Cisco</li>
+          <li >Wordpress <a className="text-blue-600 hover:text-blue-800" href="DSTP_Certificate_ 83G64VYMK_page-0001.jpg" target="_blank" rel="noopener noreferrer">Certificate</a> - Digiskills</li>
         </ul>
       </section>
 
