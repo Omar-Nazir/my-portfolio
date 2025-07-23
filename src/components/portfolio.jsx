@@ -72,7 +72,7 @@ export default function Portfolio() {
           <a href="https://mail.google.com/mail/?view=cm&fs=1&to=backupun2941@gmail.com" target="_blank" rel="noopener noreferrer" className="hover:text-blue-800 transition"><Mail /></a>
           <a href="https://github.com/Omar-Nazir" target="_blank" rel="noopener noreferrer" className="hover:text-blue-800 transition"><Github /></a>
           <a href="https://www.linkedin.com/in/m-umar-nazir/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-800 transition"><Linkedin /></a>
-          <a href="Umar Resume.pdf " target="_blank" rel="noopener noreferrer" className="hover:text-blue-800 transition"><FileText /></a>
+          <a href="Recent.pdf " target="_blank" rel="noopener noreferrer" className="hover:text-blue-800 transition"><FileText /></a>
           <a href="https://web.facebook.com/profile.php?id=61563342442854&_rdc=1&_rdr#" target="_blank" rel="noopener noreferrer" className="hover:text-blue-800 transition"><Facebook /></a>
         </div>
       </header>
