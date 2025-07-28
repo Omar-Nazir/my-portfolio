@@ -58,6 +58,13 @@ const projects = [
     link: "https://github.com/Omar-Nazir/tic-tac-toe",
     Live: "https://tic-tac-toe-alpha-two-23.vercel.app/"
   },
+  {
+    title: "Book-Shop",
+    description:
+      "Developed a full-stack book shop using the MERN stack with user authentication, product listing, shopping cart, and responsive design.",
+    link: "https://github.com/Omar-Nazir/Book-Shop-Frontend",
+    Live: "https://book-shop-frontend-ten.vercel.app/"
+  },
 ];
 
 export default function Portfolio() {
