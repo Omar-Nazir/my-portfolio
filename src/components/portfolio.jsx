@@ -65,6 +65,13 @@ const projects = [
     link: "https://github.com/Omar-Nazir/Book-Shop-Frontend",
     Live: "https://book-shop-frontend-ten.vercel.app/"
   },
+  {
+    title: "Task-Manager",
+    description:
+      "Built with the MERN stack, featuring user auth, CRUD operations, and a responsive UI for managing tasks efficiently.",
+    link: "https://github.com/Omar-Nazir/task-manager-frontend",
+    Live: "https://task-manager-frontend-ten-chi.vercel.app/"
+  },
 ];
 
 export default function Portfolio() {
